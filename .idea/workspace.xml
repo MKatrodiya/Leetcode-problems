@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ad299234-9e7b-43a3-aa05-26397bf211be" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode Problems.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CloneGraph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Combinations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ContainsDuplicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ContainsDuplicate2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DecodeString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EvaluateRPN.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FIndTargetSumWays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/KeysAndRooms.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LargestRectHistogram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LetterCombinationsOfPhoneNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MergeSortIterative.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MinInRotatedArray2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NQueens.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NQueens2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NumSquares.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ParenthesesGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Permutations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RotatedBinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RotatedBinarySearch2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Search2DMatrix2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SerializeDeserializeTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SquareRoot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SudokuSolver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TreeFromInorderPostorder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TreeFromInorderPreorder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UniqueBSTs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UniqueBSTs2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Update01Matrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ValidParentheses.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Record" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2JIu4dKDizgkzKkNKN5roWGKP4C" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "configurable.group.language"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="LeetCode Problems" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ad299234-9e7b-43a3-aa05-26397bf211be" name="Changes" comment="" />
+      <created>1671777734321</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1671777734321</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/NumSquares.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/NumSquares.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DecodeString.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Update01Matrix.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Search2DMatrix2.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/NQueens2.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/NQueens2.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/NQueens2.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/NQueens2.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/SudokuSolver.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LargestRectHistogram.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LetterCombinationsOfPhoneNumbers.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LetterCombinationsOfPhoneNumbers.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/SquareRoot.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RotatedBinarySearch.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.util.ConcurrentModificationException" package="java.util" />
+          <option name="timeStamp" value="10" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/LeetCode_Problems$Main.ic" NAME="Main Coverage Results" MODIFIED="1672040170967" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
