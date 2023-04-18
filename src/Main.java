@@ -2,8 +2,9 @@ import java.util.*;
 
 public class Main {
     public static void main(String[] args) {
-        int[] input = new int[]{1,2,3,4,5};
+        int[] input = new int[]{3,1,3,4,7,9,12};
+        char[] charInput = new char[]{'c','f','j'};
         String strInput = "";
-        System.out.println("answer: " + Arrays.toString(new FindKClosestElements().findClosestElements(input, 4, -1).toArray()));
+        System.out.println("answer: " + new KthSmallestPairDistance().smallestDistancePair(input, 6));
     }
 }
