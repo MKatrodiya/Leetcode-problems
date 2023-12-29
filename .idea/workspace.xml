@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ad299234-9e7b-43a3-aa05-26397bf211be" name="Changes" comment="Added new solutions">
-      <change afterPath="$PROJECT_DIR$/src/InsertionSortList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/KthLargestElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SortColors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BestTimeToBuySellStock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BestTimeToBuySellStock2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TwoSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
@@ -28,12 +28,30 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;MKatrodiya&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="26a1c20a-b369-4ba2-9a6e-5ea5e8d927b2" />
+        <option name="url" value="https://github.com/MKatrodiya/Leetcode-problems.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/RotatedBinarySearch2.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2JIu4dKDizgkzKkNKN5roWGKP4C" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -98,6 +116,9 @@
       <workItem from="1693576682017" duration="596000" />
       <workItem from="1693938673805" duration="1890000" />
       <workItem from="1694461735573" duration="2000" />
+      <workItem from="1703723919350" duration="187000" />
+      <workItem from="1703724112081" duration="3765000" />
+      <workItem from="1703781183519" duration="1256000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1681215060770</created>
@@ -127,7 +148,15 @@
       <option name="project" value="LOCAL" />
       <updated>1682314196752</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Added new solutions">
+      <option name="closed" value="true" />
+      <created>1703723934346</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1703723934346</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
