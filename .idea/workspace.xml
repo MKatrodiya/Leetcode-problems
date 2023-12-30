@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ad299234-9e7b-43a3-aa05-26397bf211be" name="Changes" comment="Added solutions for Best Time To Buy Sell Stock 1 &amp; 2">
-      <change afterPath="$PROJECT_DIR$/src/CombinationSum.java" afterDir="false" />
+    <list default="true" id="ad299234-9e7b-43a3-aa05-26397bf211be" name="Changes" comment="Added solutions for Combination Sum">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CombinationSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CombinationSum.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -116,7 +115,7 @@
       <workItem from="1703723919350" duration="187000" />
       <workItem from="1703724112081" duration="3765000" />
       <workItem from="1703781183519" duration="6655000" />
-      <workItem from="1703861727659" duration="1578000" />
+      <workItem from="1703861727659" duration="2291000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1681215060770</created>
@@ -162,7 +161,15 @@
       <option name="project" value="LOCAL" />
       <updated>1703822255978</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Added solutions for Combination Sum">
+      <option name="closed" value="true" />
+      <created>1703912022259</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1703912022259</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -183,7 +190,8 @@
     <MESSAGE value="Initial commit" />
     <MESSAGE value="Added new solutions" />
     <MESSAGE value="Added solutions for Best Time To Buy Sell Stock 1 &amp; 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added solutions for Best Time To Buy Sell Stock 1 &amp; 2" />
+    <MESSAGE value="Added solutions for Combination Sum" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added solutions for Combination Sum" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

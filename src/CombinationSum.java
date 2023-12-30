@@ -13,7 +13,7 @@ public class CombinationSum {
   }
 
   private void solve(List<List<Integer>> result, List<Integer> curr,
-                                    int[] candidates, int start, int target) {
+                     int[] candidates, int start, int target) {
     if (target == 0) {
       result.add(new ArrayList<>(curr));
       return;
@@ -24,6 +24,6 @@ public class CombinationSum {
     curr.add(candidates[start]);
     solve(result, curr, candidates, start, target - candidates[start]);
     curr.remove(curr.size() - 1);
-    solve(result, curr, candidates, start + 1, target - candidates[start]);
+    solve(result, curr, candidates, start + 1, target);
   }
 }
