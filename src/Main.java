@@ -2,7 +2,7 @@ import java.util.*;
 
 public class Main {
     public static void main(String[] args) {
-        int[] input = new int[]{7,1,5,3,6,4};
+        int[] input = new int[]{2,3,6,7};
         char[] charInput = new char[]{'c','f','j'};
         String strInput = "";
 //        ListNode node4 = new ListNode(4);
@@ -12,6 +12,6 @@ public class Main {
 //        node4.next = node2;
 //        node2.next = node1;
 //        node1.next = node3;
-        System.out.println("answer: " + new BestTimeToBuySellStock2().maxProfit(input));
+        System.out.println("answer: " + new CombinationSum().combinationSum(input, 7));
     }
 }
