@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ad299234-9e7b-43a3-aa05-26397bf211be" name="Changes" comment="Fixed bug in Combination Sum">
-      <change afterPath="$PROJECT_DIR$/src/RotateImage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CombinationSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CombinationSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="ad299234-9e7b-43a3-aa05-26397bf211be" name="Changes" comment="Added solution for Rotate Image" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,6 +40,9 @@
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
@@ -118,7 +116,7 @@
       <workItem from="1703724112081" duration="3765000" />
       <workItem from="1703781183519" duration="6655000" />
       <workItem from="1703861727659" duration="3529000" />
-      <workItem from="1703957067476" duration="2842000" />
+      <workItem from="1703957067476" duration="2937000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1681215060770</created>
@@ -180,7 +178,15 @@
       <option name="project" value="LOCAL" />
       <updated>1703912801614</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Added solution for Rotate Image">
+      <option name="closed" value="true" />
+      <created>1703999740248</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1703999740248</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -203,7 +209,8 @@
     <MESSAGE value="Added solutions for Best Time To Buy Sell Stock 1 &amp; 2" />
     <MESSAGE value="Added solutions for Combination Sum" />
     <MESSAGE value="Fixed bug in Combination Sum" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fixed bug in Combination Sum" />
+    <MESSAGE value="Added solution for Rotate Image" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added solution for Rotate Image" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -307,11 +314,6 @@
           <url>file://$PROJECT_DIR$/src/InsertionSortList.java</url>
           <line>5</line>
           <option name="timeStamp" value="70" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/RotateImage.java</url>
-          <line>8</line>
-          <option name="timeStamp" value="71" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.util.ConcurrentModificationException" package="java.util" />
