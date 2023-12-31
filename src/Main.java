@@ -3,6 +3,7 @@ import java.util.*;
 public class Main {
     public static void main(String[] args) {
         int[] input = new int[]{2,3,6,7};
+        int[][] input2d = new int[][]{{1, 2, 3}, {4, 5, 6}, {7, 8, 9}};
         char[] charInput = new char[]{'c','f','j'};
         String strInput = "";
 //        ListNode node4 = new ListNode(4);
@@ -12,6 +13,7 @@ public class Main {
 //        node4.next = node2;
 //        node2.next = node1;
 //        node1.next = node3;
-        System.out.println("answer: " + new CombinationSum().combinationSum(input, 7));
+        new RotateImage().rotate(input2d);
+        System.out.println("answer: " + Arrays.deepToString(input2d));
     }
 }

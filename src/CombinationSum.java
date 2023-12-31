@@ -5,7 +5,7 @@ import java.util.List;
 
 public class CombinationSum {
   public List<List<Integer>> combinationSum(int[] candidates, int target) {
-    Arrays.sort(candidates);
+//    Arrays.sort(candidates);
     List<List<Integer>> result = new ArrayList<>();
     solve(result, new ArrayList<>(),
           candidates, 0, target);
