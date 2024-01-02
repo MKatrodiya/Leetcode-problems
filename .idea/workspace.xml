@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ad299234-9e7b-43a3-aa05-26397bf211be" name="Changes" comment="Added solution for Rotate Image">
-      <change afterPath="$PROJECT_DIR$/src/IntegerToRoman.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    <list default="true" id="ad299234-9e7b-43a3-aa05-26397bf211be" name="Changes" comment="Added solution for Integer to Roman">
+      <change beforePath="$PROJECT_DIR$/src/IntegerToRoman.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IntegerToRoman.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -121,7 +119,7 @@
       <workItem from="1703781183519" duration="6655000" />
       <workItem from="1703861727659" duration="3529000" />
       <workItem from="1703957067476" duration="3559000" />
-      <workItem from="1704037424095" duration="1828000" />
+      <workItem from="1704037424095" duration="2025000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1681215060770</created>
@@ -199,7 +197,15 @@
       <option name="project" value="LOCAL" />
       <updated>1703999788703</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Added solution for Integer to Roman">
+      <option name="closed" value="true" />
+      <created>1704171525145</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1704171525145</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -223,7 +229,8 @@
     <MESSAGE value="Added solutions for Combination Sum" />
     <MESSAGE value="Fixed bug in Combination Sum" />
     <MESSAGE value="Added solution for Rotate Image" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added solution for Rotate Image" />
+    <MESSAGE value="Added solution for Integer to Roman" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added solution for Integer to Roman" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -327,6 +334,11 @@
           <url>file://$PROJECT_DIR$/src/InsertionSortList.java</url>
           <line>5</line>
           <option name="timeStamp" value="70" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/IntegerToRoman.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="72" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.util.ConcurrentModificationException" package="java.util" />

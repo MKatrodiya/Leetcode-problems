@@ -27,7 +27,7 @@ public class IntegerToRoman {
         i++;
       }
       result.append(numMap.get(divisors[i]));
-      temp %= divisors[i];
+      temp -= divisors[i];
     }
     return result.toString();
   }
