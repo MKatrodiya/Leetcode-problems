@@ -14,6 +14,6 @@ public class Main {
 //        node2.next = node1;
 //        node1.next = node3;
         new RotateImage().rotate(input2d);
-        System.out.println("answer: " + new IntegerToRoman().intToRoman(intInput));
+        System.out.println("answer: " + new UniquePaths().uniquePaths(3, 4));
     }
 }
