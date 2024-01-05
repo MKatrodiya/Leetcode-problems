@@ -1,7 +1,7 @@
 
 public class Main {
     public static void main(String[] args) {
-        int[] input = new int[]{2,3,6,7};
+        int[] input = new int[]{7,7,7,7,7,7,7};
         int[][] input2d = new int[][]{{1, 2, 3}, {4, 5, 6}, {7, 8, 9}};
         char[] charInput = new char[]{'c','f','j'};
         String strInput = "";
@@ -14,6 +14,6 @@ public class Main {
 //        node2.next = node1;
 //        node1.next = node3;
         new RotateImage().rotate(input2d);
-        System.out.println("answer: " + new UniquePaths().uniquePaths(3, 4));
+        System.out.println("answer: " + new LongestIncreasingSubsequence().lengthOfLIS(input));
     }
 }

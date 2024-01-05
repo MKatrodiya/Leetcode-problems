@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ad299234-9e7b-43a3-aa05-26397bf211be" name="Changes" comment="Fixed bug in Integer to Roman">
-      <change afterPath="$PROJECT_DIR$/src/UniquePaths.java" afterDir="false" />
+    <list default="true" id="ad299234-9e7b-43a3-aa05-26397bf211be" name="Changes" comment="Added solution for unique paths">
+      <change afterPath="$PROJECT_DIR$/src/LongestIncreasingSubsequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MinOpsToEmptyArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
@@ -124,7 +125,9 @@
       <workItem from="1704037424095" duration="2838000" />
       <workItem from="1704210862906" duration="591000" />
       <workItem from="1704299047637" duration="577000" />
-      <workItem from="1704322291882" duration="2021000" />
+      <workItem from="1704322291882" duration="5280000" />
+      <workItem from="1704383373669" duration="42000" />
+      <workItem from="1704414730954" duration="1788000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1681215060770</created>
@@ -218,7 +221,15 @@
       <option name="project" value="LOCAL" />
       <updated>1704171864996</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Added solution for unique paths">
+      <option name="closed" value="true" />
+      <created>1704343913658</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1704343913658</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -244,7 +255,8 @@
     <MESSAGE value="Added solution for Rotate Image" />
     <MESSAGE value="Added solution for Integer to Roman" />
     <MESSAGE value="Fixed bug in Integer to Roman" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fixed bug in Integer to Roman" />
+    <MESSAGE value="Added solution for unique paths" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added solution for unique paths" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
