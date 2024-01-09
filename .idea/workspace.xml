@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ad299234-9e7b-43a3-aa05-26397bf211be" name="Changes" comment="Added solution for Longest Increasing Subsequence">
-      <change afterPath="$PROJECT_DIR$/src/MaxProfitJobScheduling.java" afterDir="false" />
+    <list default="true" id="ad299234-9e7b-43a3-aa05-26397bf211be" name="Changes" comment="Added solution for Maximum profit job scheduling">
+      <change afterPath="$PROJECT_DIR$/src/ArithmeticSlices2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
@@ -128,7 +128,11 @@
       <workItem from="1704383373669" duration="42000" />
       <workItem from="1704414730954" duration="2464000" />
       <workItem from="1704466494707" duration="1220000" />
-      <workItem from="1704597240403" duration="3659000" />
+      <workItem from="1704597240403" duration="3744000" />
+      <workItem from="1704643498376" duration="575000" />
+      <workItem from="1704687123770" duration="1264000" />
+      <workItem from="1704728550618" duration="611000" />
+      <workItem from="1704771232970" duration="2330000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1681215060770</created>
@@ -246,7 +250,15 @@
       <option name="project" value="LOCAL" />
       <updated>1704432123752</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Added solution for Maximum profit job scheduling">
+      <option name="closed" value="true" />
+      <created>1704609976945</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1704609976945</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -274,7 +286,8 @@
     <MESSAGE value="Fixed bug in Integer to Roman" />
     <MESSAGE value="Added solution for unique paths" />
     <MESSAGE value="Added solution for Longest Increasing Subsequence" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added solution for Longest Increasing Subsequence" />
+    <MESSAGE value="Added solution for Maximum profit job scheduling" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added solution for Maximum profit job scheduling" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

@@ -1,7 +1,7 @@
 
 public class Main {
   public static void main(String[] args) {
-    int[] input = new int[]{1,1,1};
+    int[] input = new int[]{0,2000000000,-294967296};
     int[] input2 = new int[]{2, 3, 4};
     int[] input3 = new int[]{5, 6, 4};
     int[][] input2d = new int[][]{{1, 2, 3}, {4, 5, 6}, {7, 8, 9}};
@@ -16,7 +16,6 @@ public class Main {
 //        node2.next = node1;
 //        node1.next = node3;
     new RotateImage().rotate(input2d);
-    System.out.println("answer: " + new MaxProfitJobScheduling().jobScheduling(input, input2,
-                                                                               input3));
+    System.out.println("answer: " + new ArithmeticSlices2().numberOfArithmeticSlices(input));
   }
 }
