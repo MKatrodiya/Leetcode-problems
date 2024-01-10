@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ad299234-9e7b-43a3-aa05-26397bf211be" name="Changes" comment="Added solution for Arithmetic Subsequences 2">
-      <change afterPath="$PROJECT_DIR$/src/LeafSimilarTrees.java" afterDir="false" />
+    <list default="true" id="ad299234-9e7b-43a3-aa05-26397bf211be" name="Changes" comment="Added solution for Leaf Similar Trees">
+      <change afterPath="$PROJECT_DIR$/src/TimeForBinaryTreeToBeInfected.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -131,7 +131,8 @@
       <workItem from="1704643498376" duration="575000" />
       <workItem from="1704687123770" duration="1264000" />
       <workItem from="1704728550618" duration="611000" />
-      <workItem from="1704771232970" duration="4516000" />
+      <workItem from="1704771232970" duration="5158000" />
+      <workItem from="1704814547443" duration="16574000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1681215060770</created>
@@ -265,7 +266,15 @@
       <option name="project" value="LOCAL" />
       <updated>1704773646689</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Added solution for Leaf Similar Trees">
+      <option name="closed" value="true" />
+      <created>1704775943684</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1704775943684</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -295,7 +304,8 @@
     <MESSAGE value="Added solution for Longest Increasing Subsequence" />
     <MESSAGE value="Added solution for Maximum profit job scheduling" />
     <MESSAGE value="Added solution for Arithmetic Subsequences 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added solution for Arithmetic Subsequences 2" />
+    <MESSAGE value="Added solution for Leaf Similar Trees" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added solution for Leaf Similar Trees" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
