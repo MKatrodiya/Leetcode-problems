@@ -6,6 +6,32 @@ import java.util.Queue;
 import java.util.Set;
 
 public class TimeForBinaryTreeToBeInfected {
+  int result = Integer.MIN_VALUE;
+  public int amountOfTime(TreeNode root, int start) {
+    dfs(root, start);
+
+    return result;
+  }
+
+  private int dfs(TreeNode root, int start) {
+    if (root == null) {
+      return 0;
+    }
+    int lh = dfs(root.left, start);
+    int rh = dfs(root.right, start);
+
+    if (root.val == start) {
+      result = Math.max(lh, rh); //set the result based on subtree rooted at start
+      return -1; //return -1 indicating to parent about start
+    } else if (lh >= 0 && rh >= 0) {
+      return Math.max(lh, rh) + 1; // Height of the current subtree
+    } else { // either left or right subtree contains start
+      result = Math.max(result, Math.abs(lh) + Math.abs(rh));
+      return Math.min(lh, rh) - 1; // return negative depth of start from root
+    }
+  }
+
+  /* 2-pass solution
   public int amountOfTime(TreeNode root, int start) {
     Map<Integer, Set<Integer>> map = new HashMap<>();
     convertToGraph(root, 0, map);
@@ -52,4 +78,5 @@ public class TimeForBinaryTreeToBeInfected {
     convertToGraph(curr.left, curr.val, map);
     convertToGraph(curr.right, curr.val, map);
   }
+   */
 }

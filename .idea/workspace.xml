@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ad299234-9e7b-43a3-aa05-26397bf211be" name="Changes" comment="Added solution for Leaf Similar Trees">
-      <change afterPath="$PROJECT_DIR$/src/TimeForBinaryTreeToBeInfected.java" afterDir="false" />
+    <list default="true" id="ad299234-9e7b-43a3-aa05-26397bf211be" name="Changes" comment="Added solution for Max Time For Binary Tree To Be Infected">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TimeForBinaryTreeToBeInfected.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TimeForBinaryTreeToBeInfected.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -132,7 +132,9 @@
       <workItem from="1704687123770" duration="1264000" />
       <workItem from="1704728550618" duration="611000" />
       <workItem from="1704771232970" duration="5158000" />
-      <workItem from="1704814547443" duration="16574000" />
+      <workItem from="1704814547443" duration="17472000" />
+      <workItem from="1704899698502" duration="562000" />
+      <workItem from="1704931465661" duration="476000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1681215060770</created>
@@ -274,7 +276,15 @@
       <option name="project" value="LOCAL" />
       <updated>1704775943684</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Added solution for Max Time For Binary Tree To Be Infected">
+      <option name="closed" value="true" />
+      <created>1704865617871</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1704865617871</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -305,7 +315,8 @@
     <MESSAGE value="Added solution for Maximum profit job scheduling" />
     <MESSAGE value="Added solution for Arithmetic Subsequences 2" />
     <MESSAGE value="Added solution for Leaf Similar Trees" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added solution for Leaf Similar Trees" />
+    <MESSAGE value="Added solution for Max Time For Binary Tree To Be Infected" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added solution for Max Time For Binary Tree To Be Infected" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
