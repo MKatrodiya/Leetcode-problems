@@ -6,7 +6,7 @@ public class Main {
     int[] input3 = new int[]{5, 6, 4};
     int[][] input2d = new int[][]{{1, 2, 3}, {4, 5, 6}, {7, 8, 9}};
     char[] charInput = new char[]{'c', 'f', 'j'};
-    String strInput = "";
+    String strInput = "book";
     int intInput = 2000;
 //        ListNode node4 = new ListNode(4);
 //        ListNode node2 = new ListNode(2);
@@ -16,6 +16,6 @@ public class Main {
 //        node2.next = node1;
 //        node1.next = node3;
     new RotateImage().rotate(input2d);
-    System.out.println("answer: " + new ArithmeticSlices2().numberOfArithmeticSlices(input));
+    System.out.println("answer: " + new CloseTwoStrings().closeStrings("uau", "ssx"));
   }
 }
