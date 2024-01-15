@@ -4,7 +4,7 @@ public class Main {
     int[] input = new int[]{0,2000000000,-294967296};
     int[] input2 = new int[]{2, 3, 4};
     int[] input3 = new int[]{5, 6, 4};
-    int[][] input2d = new int[][]{{1, 2, 3}, {4, 5, 6}, {7, 8, 9}};
+    int[][] input2d = new int[][]{{1,3},{2,3},{3,6},{5,6},{5,7},{4,5},{4,8},{4,9},{10,4},{10,9}};
     char[] charInput = new char[]{'c', 'f', 'j'};
     String strInput = "book";
     int intInput = 2000;
@@ -15,7 +15,7 @@ public class Main {
 //        node4.next = node2;
 //        node2.next = node1;
 //        node1.next = node3;
-    new RotateImage().rotate(input2d);
-    System.out.println("answer: " + new CloseTwoStrings().closeStrings("uau", "ssx"));
+//    new RotateImage().rotate(input2d);
+    System.out.println("answer: " + new PlayersWithZeroOrOneLosses().findWinners(input2d));
   }
 }
