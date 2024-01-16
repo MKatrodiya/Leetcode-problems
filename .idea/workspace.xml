@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ad299234-9e7b-43a3-aa05-26397bf211be" name="Changes" comment="Added solution for &quot;Determine if Two Strings Are Close&quot;">
-      <change afterPath="$PROJECT_DIR$/src/PlayersWithZeroOrOneLosses.java" afterDir="false" />
+    <list default="true" id="ad299234-9e7b-43a3-aa05-26397bf211be" name="Changes" comment="Added solution for &quot;Find Players With Zero or One Losses&#10;&quot;">
+      <change afterPath="$PROJECT_DIR$/src/InsertDeleteGetRandom.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -141,7 +140,9 @@
       <workItem from="1705072570609" duration="584000" />
       <workItem from="1705118313084" duration="3983000" />
       <workItem from="1705246088344" duration="548000" />
-      <workItem from="1705278191220" duration="2965000" />
+      <workItem from="1705278191220" duration="3703000" />
+      <workItem from="1705332668188" duration="573000" />
+      <workItem from="1705385500836" duration="775000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1681215060770</created>
@@ -315,7 +316,15 @@
       <option name="project" value="LOCAL" />
       <updated>1705204763727</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Added solution for &quot;Find Players With Zero or One Losses&#10;&quot;">
+      <option name="closed" value="true" />
+      <created>1705282276300</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1705282276300</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -350,7 +359,8 @@
     <MESSAGE value="Added one pass solution for Max Time For Binary Tree To Be Infected" />
     <MESSAGE value="Added solution for Max Difference Between Node and Ancestor" />
     <MESSAGE value="Added solution for &quot;Determine if Two Strings Are Close&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added solution for &quot;Determine if Two Strings Are Close&quot;" />
+    <MESSAGE value="Added solution for &quot;Find Players With Zero or One Losses&#10;&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added solution for &quot;Find Players With Zero or One Losses&#10;&quot;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
