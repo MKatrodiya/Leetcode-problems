@@ -1,13 +1,15 @@
+import java.util.Arrays;
 
 public class Main {
   public static void main(String[] args) {
-    int[] input = new int[]{-3,0,1,-3,1,1,1,-3,10,0};
+    int[] input = new int[]{89,62,70,58,47,47,46,76,100,70};
     int[] input2 = new int[]{2, 3, 4};
     int[] input3 = new int[]{5, 6, 4};
-    int[][] input2d = new int[][]{{1,3},{2,3},{3,6},{5,6},{5,7},{4,5},{4,8},{4,9},{10,4},{10,9}};
+    int[][] input2d = new int[][]{{2, 1, 3}, {6, 5, 4}, {7, 8, 9}};
     char[] charInput = new char[]{'c', 'f', 'j'};
     String strInput = "book";
     int intInput = 2000;
+    String[] strInputArr = new String[]{"2", "1", "3", "+", "*"};
 //        ListNode node4 = new ListNode(4);
 //        ListNode node2 = new ListNode(2);
 //        ListNode node1 = new ListNode(1);
@@ -16,6 +18,6 @@ public class Main {
 //        node2.next = node1;
 //        node1.next = node3;
 //    new RotateImage().rotate(input2d);
-    System.out.println("answer: " + new UniqueNoOfOccurrences().uniqueOccurrences(input));
+    System.out.println("answer: " + Arrays.toString(new DailyTemperatures().dailyTemperatures(input)));
   }
 }
