@@ -2,7 +2,7 @@ import java.util.Arrays;
 
 public class Main {
   public static void main(String[] args) {
-    int[] input = new int[]{89,62,70,58,47,47,46,76,100,70};
+    int[] input = new int[]{10, 15, 20};
     int[] input2 = new int[]{2, 3, 4};
     int[] input3 = new int[]{5, 6, 4};
     int[][] input2d = new int[][]{{2, 1, 3}, {6, 5, 4}, {7, 8, 9}};
@@ -18,6 +18,6 @@ public class Main {
 //        node2.next = node1;
 //        node1.next = node3;
 //    new RotateImage().rotate(input2d);
-    System.out.println("answer: " + Arrays.toString(new DailyTemperatures().dailyTemperatures(input)));
+    System.out.println("answer: " + new MinCostClimbingStairs().minCostClimbingStairs(input));
   }
 }
